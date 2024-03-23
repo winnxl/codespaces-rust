@@ -1,0 +1,7 @@
+# https://doc.rust-lang.org/cargo/reference/manifest.html
+[package]
+name = "codespaces-rust"
+version = "0.0.1"
+authors = ["winnxl"]
+
+[dependencies]
